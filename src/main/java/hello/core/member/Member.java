@@ -1,7 +1,5 @@
 package hello.core.member;
 
-import hello.core.Grade;
-
 public class Member {
 
     private Long id;
